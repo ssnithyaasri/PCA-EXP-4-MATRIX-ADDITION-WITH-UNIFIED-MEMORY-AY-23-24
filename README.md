@@ -523,4 +523,4 @@ Without Memset()
 
 
 ## RESULT:
-Thus the program has been executed by using unified memory. It is observed that removing memset function has given less 0.030553 sec time.
+Thus the program has been executed by using unified memory. It is observed that removing memset function has given less by a difference of 0.030553 sec time.
